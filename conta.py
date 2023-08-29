@@ -13,3 +13,10 @@ class Conta:
 
     def getLimite(self):
         return self.limite
+
+    def sacar(self, valor: float):
+        if valor>0 and valor<=self.saldo:
+            self.saldo-=valor
+            self.extrato.append('- Saldo')
+            return True
+        return False
