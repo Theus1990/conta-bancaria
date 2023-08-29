@@ -22,3 +22,10 @@ class Conta:
         else: 
             return False
     
+    def depositar(self, valor: float):
+        if valor > 0:
+            self.saldo += valor
+            self.extrato.append("+ Depositar")
+            return True
+        else:
+            return False
