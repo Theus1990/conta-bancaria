@@ -20,3 +20,10 @@ class Conta:
             self.extrato.append(" - Saldo")
             return True
         return False
+    
+    def depoistar(self, valor:float):
+        if valor > 0:
+            self.saldo += valor
+            self.extrato.append("+ Depositar")
+            return True
+        return False
