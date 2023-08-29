@@ -1,5 +1,5 @@
 class Conta:
-    def __init__(self, numero:int, saldo:float):
+    def __init__(self, numero: int, saldo: float):
         self.numero = numero
         self.limite = 100
         self.extrato = []
@@ -13,3 +13,11 @@ class Conta:
 
     def getLimite(self):
         return self.limite
+
+    def sacar(self, valor: float):
+        if valor > 0 and valor <= self.saldo:
+            self.saldo -= valor
+            self.extrato.append(" - Saldo")
+            return True
+        else:
+            return False
