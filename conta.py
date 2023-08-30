@@ -13,3 +13,11 @@ class Conta:
 
     def getLimite(self):
         return self.limite
+    
+    def depositar(self, valor:float):
+        if valor > 0:
+            self.saldo += valor
+            self.extrato.append("+ Depositar")
+            return True
+        else:
+            return False
