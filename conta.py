@@ -13,4 +13,20 @@ class Conta:
 
     def getLimite(self):
         return self.limite
-    print("VC eh um Bacana")
+<<<<<<< HEAD
+
+=======
+    
+    def depositar(self, valor:float):
+        if valor > 0:
+            self.saldo += valor
+            self.extrato.append("+ Depositar")
+            return True
+        else:
+            return False
+    
+    def soma(x):
+        soma = x+x
+        return soma
+>>>>>>> e7abf76fed1cfcd90e140a6590f5e00962204e44
+print("VC eh um Bacana")
