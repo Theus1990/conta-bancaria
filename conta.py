@@ -21,3 +21,7 @@ class Conta:
             return True
         else:
             return False
+    
+    def soma(x):
+        soma = x+x
+        return soma
