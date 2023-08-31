@@ -36,7 +36,7 @@ Em resumo, o minicurso Análise de Dados com Pandas: Domine a biblioteca de Mani
 ## Autores
 
 - [@Matheus Rabelo](https://www.linkedin.com/in/matheus-feitosa-de-oliveira-rabelo)
-- [@Eryka Carvalho](http://www.linkedin.com/in/eryka-carvalho-190a38237)
+- [@Matheus Gois](https://www.linkedin.com/in/matheus-gois-37659526b/)
 
 ## Orientadores
 
