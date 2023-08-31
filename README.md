@@ -1,5 +1,5 @@
 
-## 🐼 Minicurso - Git & GitHub: Controle de Versão e Colaboração Eficiente
+## Minicurso - Git & GitHub: Controle de Versão e Colaboração Eficiente
 
 Bem-vindo ao repositório do Minicurso Git & GitHub: Controle de Versão e Colaboração Eficiente! Este minicurso foi projetado para ajudar você a dar os primeiros passos na utilização do Git e Github. Durante o minicurso, você aprenderá os fundamentos e comandos básicos do Git e como utilizar o Github para a organização do seus versionamentos.
 
