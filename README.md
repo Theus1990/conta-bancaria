@@ -27,11 +27,13 @@ Ao final deste minicurso, você terá adquirido um conhecimento sólido sobre co
 
 ## 📃 Metodologia:
 
-O minicurso será ministrado por meio de aulas expositivas, onde os instrutores utilizarão Jupyter Notebooks para apresentar os conceitos de forma clara e didática. Exemplos práticos serão usados ao longo do curso para ilustrar os tópicos abordados, e exercícios serão propostos para fortalecer a compreensão dos participantes.
+A metodologia deste minicurso será altamente prática e interativa. Os participantes terão a oportunidade de mergulhar de maneira prática nas ferramentas Git e GitHub, com instrutores experientes liderando o caminho. A abordagem incluirá aulas interativas que fomentam a participação ativa dos alunos, permitindo discussões abertas e esclarecimento de dúvidas em tempo real.
 
-Uma parte essencial do minicurso será o desenvolvimento conjunto do projeto prático. Isso permitirá que os alunos acompanhem a aplicação dos conceitos em tempo real, esclarecendo dúvidas à medida que surgirem e ganhando confiança na manipulação de dados com o pandas.
+Os instrutores utilizarão demonstrações ao vivo para ilustrar como as ferramentas funcionam em situações do mundo real, tornando os conceitos mais acessíveis e compreensíveis. Os participantes serão incentivados a seguir as demonstrações em seus próprios computadores para obter experiência prática.
 
-Em resumo, o minicurso Análise de Dados com Pandas: Domine a biblioteca de Manipulação de Dados do Python oferece uma abordagem completa e prática para que os participantes adquiram habilidades essenciais em análise de dados utilizando uma das bibliotecas mais poderosas do Python. Se você está pronto para explorar as capacidades do pandas e se tornar um analista de dados mais competente, este minicurso é o ponto de partida perfeito.
+Além disso, exemplos práticos serão incorporados ao curso para que os participantes possam aplicar imediatamente o que aprenderam. Serão propostos exercícios práticos para reforçar o conhecimento adquirido e desenvolver habilidades práticas de uso do Git e GitHub.
+
+Em suma, a metodologia deste minicurso proporcionará uma experiência de aprendizado prática, interativa e envolvente, permitindo que os participantes dominem efetivamente o uso do Git e GitHub.
 
 ## Autores
 
